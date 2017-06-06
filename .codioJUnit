@@ -4,6 +4,10 @@
  "libraries": "",
  "cases": [
   {
+   "path": "TestJunit.java",
+   "className": "TestJunit"
+  },
+  {
    "path": "TestCalc1.java",
    "className": "TestCalc1"
   }
