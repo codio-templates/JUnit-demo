@@ -2,11 +2,6 @@
  "mainSource": "",
  "testSource": "",
  "libraries": "",
- "cases": [
-  {
-   "path": "TestCalc1.java",
-   "className": "TestCalc1"
-  }
- ],
+ "cases": [],
  "wd": ""
 }
